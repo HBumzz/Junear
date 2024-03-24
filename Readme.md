@@ -101,7 +101,7 @@
 
 - python
 - fastApi
-- Beatifulsoup
+- Beatifulsoup
 
 ## 서비스 아키텍쳐
 
