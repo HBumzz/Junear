@@ -101,7 +101,7 @@
 
 - python
 - fastApi
-- 크롤링뭐시기
+- Beatifulsoup
 
 ## 서비스 아키텍쳐
 
